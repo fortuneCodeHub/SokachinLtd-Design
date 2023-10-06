@@ -1,0 +1,19 @@
+body::before {
+    display: block;
+    content: "";
+    height: 50px;
+}
+@media (min-width: 768px) {
+    #input {
+        width: 50%;
+    }
+}
+#img-style {
+    width: 80%;
+}
+#card-body-style {
+    background-image: url("../image/bitcoin.PNG");
+    background-size: cover;
+    background-position: fixed;
+    height: 300px;
+}

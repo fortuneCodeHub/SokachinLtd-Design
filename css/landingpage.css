@@ -1,0 +1,13 @@
+#brand {
+    font-size: 25px;
+    font-weight: 700;
+}
+
+#button {
+    border: 2px solid rgba(46, 15, 223, 0.877);
+}
+
+#button:focus {
+    border: none;
+    color: rgb(122, 39, 108);
+}
